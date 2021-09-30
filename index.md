@@ -6,8 +6,10 @@
 
 [Earthquakes in OK](/pdf/CWJ_Midterm_GIS5013_Fall2020_202010251645.pdf)
 
-
 ---
+
+### The Effect of Hurricane Patterns on Urban Development on the Gulf Coast of Mississippi
+
 [The effect of hurricane patterns on urban development](/pdf/CWJ_GIS5013_TermPaper_Fall2020.pdf)
 
 ---
