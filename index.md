@@ -16,7 +16,7 @@
 
 ### Oklahoma Map for GIS5253 Lesson 1
 
-[![OUGIS5253 Lesson 1](images/OKcounties.png)](https://arcg.is/qimne (Links to an external site.))
+[![OUGIS5253 Lesson 1](images/OKcounties.png)](https://arcg.is/eTqqH (Links to an external site.))
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
