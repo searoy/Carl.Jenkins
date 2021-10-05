@@ -19,5 +19,11 @@
 [![OUGIS5253 Lesson 1](images/OKcounties.png)](https://arcg.is/eTqqH)
 
 ---
+
+### Burn Map
+
+[Burn Map](https://code.earthengine.google.com/?scriptPath=Examples%3AUser%20Interface%2FSplit%20Panel)
+
+---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
