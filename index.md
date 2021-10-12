@@ -22,7 +22,7 @@
 
 ### Burn Map
 
-[Burn Map](https://code.earthengine.google.com/?scriptPath=Examples%3AUser%20Interface%2FSplit%20Panel)
+[Burn Map](https://carlwj.users.earthengine.app/view/finally)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
